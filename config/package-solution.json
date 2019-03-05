@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "searchlink-webpart-client-side-solution",
+    "id": "874c9e36-9513-4999-9919-3091fd4af036",
+    "version": "1.1.0.5",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/searchlink-webpart.sppkg"
+  }
+}

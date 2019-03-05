@@ -1,0 +1,4 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/write-manifests.schema.json",
+  "cdnBasePath": "https://ochin365.sharepoint.com/sites/Staff/CDN/SearchLink"
+}
